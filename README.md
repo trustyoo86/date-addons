@@ -5,10 +5,11 @@
  History
  ----
  2017.04.27 1) first library development
+ 2017.04.28 version up (0.0.1 -> 0.1.0)
 
  Version
  ----
- 0.0.1
+ 0.1.0
 
  Language Support
  ----
